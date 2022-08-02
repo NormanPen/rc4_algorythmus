@@ -1,4 +1,4 @@
-let key = prompt("key eingeben");
+let key = prompt("Schlüssel eingeben");
 let text = prompt("Zeichenkette eingeben");
 
 // Rsbox array 0-256
